@@ -9,7 +9,7 @@ I wanted to learn how agentic ai frameworks work, so I made my own project
   - [ ] Tool/Function calling (caching the outputs so that agents can reference reference it later)
 
 ## Getting Started
-This repo uses git submodules to include the linux kernel codebase. To get started, clone the repository and initialize the submodules:
+This repo uses git submodules to embed other repos. To get started, clone the repository and initialize the submodules:
 
 If you would like a quick one line clone, you can use the following command:
 ```bash
