@@ -2,6 +2,12 @@
 ## Background
 I wanted to learn how agentic ai frameworks work, so I made my own project
 
+## Features I would like to look into/implement
+- [ ] Native integration with OpenAI API with specifically local llms
+- [ ] Agent features
+  - [ ] Agent Group Chats similar to AG2
+  - [ ] Tool/Function calling (caching the outputs so that agents can reference reference it later)
+
 ## Getting Started
 This repo uses git submodules to include the linux kernel codebase. To get started, clone the repository and initialize the submodules:
 
