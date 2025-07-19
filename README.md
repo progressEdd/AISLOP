@@ -1,6 +1,6 @@
-# Project Template Repo
+# Artifical Intelligence Stitches Lazy Outsourced Prototypes
 ## Background
-Welcome to the template repository! I created this template repo so that as I start new projects, it is much faster to share to others
+I wanted to learn how agentic ai frameworks work, so I made my own project
 
 ## Getting Started
 This repo uses git submodules to include the linux kernel codebase. To get started, clone the repository and initialize the submodules:
