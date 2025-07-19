@@ -1,4 +1,5 @@
 # Artifical Intelligence Stitches Lazy Outsourced Prototypes
+![](00-supporting-files/images/README/20250718213304.png)
 ## Background
 I wanted to learn how agentic ai frameworks work, so I made my own project
 
